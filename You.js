@@ -125,13 +125,13 @@ noBtn.addEventListener("mouseover", () => {
 
 
 var pop = new Audio(); 
-    pop.src = "sounds/pop.mp3";
+    pop.src = "pop.mp3";
     
     var error = new Audio(); 
-    error.src = "sounds/error.mp3";    
+    error.src = "error.mp3";    
 
     var fallenlyric = new Audio(); 
-    fallenlyric.src = "sounds/fallenlyric.mp3";
+    fallenlyric.src = "fallenlyric.mp3";
     
 
 
